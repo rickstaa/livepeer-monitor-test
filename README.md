@@ -19,4 +19,3 @@ docker-compose up
 
 3. Add prometheus as a data source in Grafana. The URL should be `http://prometheus:9090`.
 4. Use the Grafana Query Editor to visualize the metrics.
-# livepeer-monitor-test
